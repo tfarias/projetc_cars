@@ -41,7 +41,7 @@ Após ter o docker rodando na sua máquina e baixar esse repositório, basta rod
 Caso apresente algum erro de permissão, rode esse comando
 
 ````
- docker exec -it panel-cars_laravel.test_1  chmod -R 775 storage
+ docker exec -it panel-cars  chmod -R 775 storage
 ````
 
 link da aplicação:
